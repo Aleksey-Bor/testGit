@@ -1,2 +1,2 @@
-"use script"
-console.log("Hi, JS!");
+"use script";
+console.log("I like Git!");
